@@ -1,0 +1,64 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: chocolate;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(63, 30, 210);
+    font-family: monospace;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+a:hover {
+    font-size: 24px;
+    color: blue;
+    background-color: white;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: source;
+}
+
+ul li {
+    color: red
+}
+
+ol li {
+    color:rgb(63, 30, 210)
+}
